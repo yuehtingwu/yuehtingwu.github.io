@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 吳岳庭作品集</title>
+    <link>https://yuehtingwu.github.io/tags/</link>
+    <description>Recent content in Tags on 吳岳庭作品集</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 29 Apr 2022 10:16:02 +0800</lastBuildDate><atom:link href="https://yuehtingwu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>prototype</title>
+      <link>https://yuehtingwu.github.io/tags/prototype/</link>
+      <pubDate>Fri, 29 Apr 2022 10:16:02 +0800</pubDate>
+      
+      <guid>https://yuehtingwu.github.io/tags/prototype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Research</title>
+      <link>https://yuehtingwu.github.io/tags/user-research/</link>
+      <pubDate>Fri, 29 Apr 2022 10:16:02 +0800</pubDate>
+      
+      <guid>https://yuehtingwu.github.io/tags/user-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX design</title>
+      <link>https://yuehtingwu.github.io/tags/ux-design/</link>
+      <pubDate>Fri, 29 Apr 2022 10:16:02 +0800</pubDate>
+      
+      <guid>https://yuehtingwu.github.io/tags/ux-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://yuehtingwu.github.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://yuehtingwu.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://yuehtingwu.github.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://yuehtingwu.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://yuehtingwu.github.io/tags/new/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://yuehtingwu.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://yuehtingwu.github.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://yuehtingwu.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://yuehtingwu.github.io/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://yuehtingwu.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

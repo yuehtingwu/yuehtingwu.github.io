@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX Project on 吳岳庭作品集</title>
+    <link>https://yuehtingwu.github.io/categories/ux-project/</link>
+    <description>Recent content in UX Project on 吳岳庭作品集</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 29 Apr 2022 10:16:02 +0800</lastBuildDate><atom:link href="https://yuehtingwu.github.io/categories/ux-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文章標題</title>
+      <link>https://yuehtingwu.github.io/blog/test/</link>
+      <pubDate>Fri, 29 Apr 2022 10:16:02 +0800</pubDate>
+      
+      <guid>https://yuehtingwu.github.io/blog/test/</guid>
+      <description>hello world
+一級標題 </description>
+    </item>
+    
+  </channel>
+</rss>
